@@ -2,12 +2,12 @@
 
 <h3>Getting started</h3>
 
-<li>
-  <ul>DB_HOST = localhost</ul>
-  <ul>DB_DATABASE = laraveldb</ul>
-  <ul>DB_username = root</ul>
-  <ul>DB_password = secret</ul>
-</li>
+<ul>
+  <li>DB_HOST = localhost</li>
+  <li>DB_DATABASE = laraveldb</li>
+  <li>DB_username = root</li>
+  <li>DB_password = secret</li>
+</ul>
 
 Project contains a simple login and register application.
 When logged in, a simple image upload application. 
