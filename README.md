@@ -9,7 +9,7 @@
   <li>DB_password = secret</li>
 </ul>
 
-Project contains a simple login and register application.
+Project contains a simple login and register application.<br>
 When logged in, a simple image upload application. 
 
 Use localhost:8000/home to navigate to frontpage/login.
